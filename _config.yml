@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "평범한 개발자의 필기노트"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Developer"
+name                     : "평범한 개발자의 필기노트"
 description              : "I'm developer"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -131,7 +131,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/dohchoi91"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -211,7 +211,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Seoul
 
 
 # Plugins (previously gems:)

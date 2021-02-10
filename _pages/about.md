@@ -1,10 +1,14 @@
 ---
-title: "이 블로그 설명서"
+title: "About"
 permalink: /about/
 layout: single
+author_profile: true
 ---
+## WhoAmI
+...  
+## 기억에 남는 구절 Memo
+- Software maintenace is not 'keep it working like before' It is 'keep it being useful in a changing world'  
+- The goal of sotfware devery is to minimize the lead time to business impact. Everything else is detail.  
 
-## dohchoi91.github.io 블로그
 
-이 블로그의 구측 방법은 <https://devinlife.com>에서 확인 가능합니다.
-이 곳에서 이 샘플 블로그를 같이 만들어보는 Github Pages 블로그 따라하기 시리즈의 모든 글을 볼 수 있다.
+##### 이 블로그의 구축 방법은 <https://devinlife.com>에서 참조하였습니다.

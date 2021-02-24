@@ -1,14 +1,14 @@
 ---
-title: "1. 객체 생성과 파괴"
+title: "02.객체 생성과 파괴"
 subtitle: "아이템1 ~ 아이템9"
-permalink: /notes/effective-java/ch01
+permalink: /notes/effective-java/ch02
 author_profile: true
 date: 2021-02-03 00:15
 categories:
   - 이펙티브 자바
 tags:
   - java
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-24
 ---
 ## 아이템1. 생성자 대신 팩터리 메서드를 고려하라.
 

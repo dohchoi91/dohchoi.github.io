@@ -1,5 +1,5 @@
 ---
-title: "04. 클래스와 인터페이스"
+title: "04.클래스와 인터페이스"
 subtitle: "아이템15 ~ 아이템25"
 permalink: /notes/effective-java/ch04
 author_profile: true
